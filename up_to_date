@@ -1,0 +1,17 @@
+ git clone
+cd
+echo content > file
+echo content line 2 << file 
+git config --global user.email
+git config --global user.name
+git add .
+git commit -m
+touch
+mkdir
+sed
+git branch
+git checkout
+git push
+rm
+cat
+cd ..
